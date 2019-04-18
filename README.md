@@ -1,1 +1,3 @@
 # modelselection_regression_R
+
+In this project data modeling is the main goal. Models trying to explorethe connection between an response and a predictor variables. The models used here are regression models.These are the teacher evaluation and the Boston house pricing data set. Question asked are for example if "age" can support the prediction of their teacher evaluation scores, or the prediction of the house price base on size and condition. Two data sets are used for this purpose. On the way different cleaning techniques are applied and helper functions written. Also the train-test-working flow is applied to increase accuracy, validity and repeatability.
